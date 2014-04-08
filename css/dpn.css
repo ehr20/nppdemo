@@ -1,0 +1,12 @@
+@media only screen {
+
+}
+
+.ieCreateButton {
+background: url("../downloadify/images/createnotice.jpg") no-repeat scroll 0px 1px\9;
+height: 55px\9;
+width: 163px\9;
+display: block\9;
+float: right\9;
+cursor: pointer\9;
+}
